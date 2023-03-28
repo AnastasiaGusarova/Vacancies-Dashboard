@@ -35,4 +35,4 @@
 
 Ссылка на Tableau Public: https://public.tableau.com/app/profile/anastasia.gusarova/viz/AnalyticsBIVacanciesOverview/DashboardClean
 
-
+![Image dashboard](https://github.com/AnastasiaGusarova/Vacancies-Dashboard/blob/main/image%20vacancies%20dashboard.png)
